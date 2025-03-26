@@ -61,3 +61,15 @@ p {
     font-size: 16px;
     line-height: 1.5;
 }
+
+
+
+
+.center {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+
+
+
+}
